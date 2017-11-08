@@ -40,7 +40,7 @@
 		float:left;
 		width: 600px;
 		height: 100%;
-		/*background-color: skyblue;*/
+		background-color: #000;
 	}
 .header .top_nav>li {
 	    width: 60px;
